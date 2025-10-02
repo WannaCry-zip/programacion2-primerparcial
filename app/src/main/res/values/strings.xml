@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">AcademiaApp</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_estudiantes">Estudiantes</string>
+    <string name="nav_materias">Materias</string>
+    <string name="nav_inicio">Inicio</string>
+
+    <!-- Fragments -->
+    <string name="title_estudiantes">Estudiantes</string>
+    <string name="title_materias">Materias</string>
+    <string name="title_inicio">Inicio</string>
+
+    <!-- Buttons -->
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_agregar_estudiante">Agregar Estudiante</string>
+    <string name="cd_agregar_materia">Agregar Materia</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_agregar_estudiante">Agregar Estudiante</string>
+    <string name="dialog_editar_estudiante">Editar Estudiante</string>
+    <string name="dialog_agregar_materia">Agregar Materia</string>
+    <string name="dialog_editar_materia">Editar Materia</string>
+    <string name="dialog_eliminar_estudiante">Eliminar Estudiante</string>
+    <string name="dialog_eliminar_materia">Eliminar Materia</string>
+
+    <!-- Input Hints -->
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_nombre_materia">Nombre de la Materia</string>
+    <string name="hint_codigo">Código</string>
+    <string name="hint_creditos">Créditos</string>
+    <string name="hint_descripcion">Descripción</string>
+
+    <!-- Messages -->
+    <string name="msg_estudiante_agregado">Estudiante agregado</string>
+    <string name="msg_estudiante_actualizado">Estudiante actualizado</string>
+    <string name="msg_estudiante_eliminado">Estudiante eliminado</string>
+    <string name="msg_materia_agregada">Materia agregada</string>
+    <string name="msg_materia_actualizada">Materia actualizada</string>
+    <string name="msg_materia_eliminada">Materia eliminada</string>
+    <string name="msg_campos_obligatorios">Todos los campos son obligatorios</string>
+    <string name="msg_creditos_invalidos">Créditos inválidos</string>
+    <string name="msg_creditos_mayor_cero">Los créditos deben ser mayores a 0</string>
+
+    <!-- Confirmations -->
+    <string name="msg_confirmar_eliminar_estudiante">¿Está seguro de eliminar a %1$s?</string>
+    <string name="msg_confirmar_eliminar_materia">¿Está seguro de eliminar %1$s?</string>
+
+    <!-- Home Fragment -->
+    <string name="home_welcome">Bienvenido a AcademiaApp</string>
+    <string name="home_description">Sistema de gestión académica para administrar estudiantes, materias, inscripciones y calificaciones.</string>
+</resources>
